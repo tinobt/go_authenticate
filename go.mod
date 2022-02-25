@@ -1,4 +1,4 @@
-module tino.go.authenticate
+module github.com/tinobt/go_authenticate
 
 go 1.16
 

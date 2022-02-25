@@ -1,4 +1,4 @@
-package auth
+package go_authenticate
 
 import (
 	"encoding/json"
